@@ -1,0 +1,68 @@
+.product_header{
+    background: #f8f8f8;
+    border-top:1px solid #e3e3e3;
+    border-bottom: 1px solid #e3e3e3;
+    padding-bottom:30px;
+}
+#components-dropdown-demo-dropdown-button .ant-dropdown-button {
+    /* margin: 0 8px 8px 0; */
+    margin-top:-15px;
+    float: right;
+  }
+.product_tabs{
+    /* float: right; */
+    margin-top:15px;
+    border-bottom:1px solid rgb(243, 240, 240);
+}
+.pro_span{
+    /* width:200px; */
+}
+.id,.Price,.Coast,.Quantity
+,.name,.type,.attribute,.select_1,.sku,.visible,.status,.filter_btn{
+    width:20%;
+    float: left;
+    margin-left: 40px;
+    margin-top:20px;
+}
+.filter_top_1,.store_view,.SkUU{
+    width: 100%;
+    height: auto;
+}
+.SkUU{
+    padding-bottom:24%;
+}
+#i,#p,#c,#q
+,#n,#t,#a,#store,#sku,#visi,#status{
+    font-weight: bold;
+    /* margin-bottom:10px; */
+}
+.slct{
+    width:80%;
+}
+.filter_btn{
+    margin-top: 40px;
+}
+.searchBar{
+    width:100%;
+}
+.srch{
+    margin-top: 20px;
+}
+.table{
+    width: 100%;
+    margin-top:20px;
+}
+.pagination{
+    width:100%;
+    text-align: center;
+}
+.slcter{
+    margin-top: 10px;
+    width:20%;
+}
+.pagination span{
+    font-weight: bold;
+}
+.product_table thead tr{
+    background-color: rgb(1, 21, 41) !important;
+}

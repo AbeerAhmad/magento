@@ -1,0 +1,119 @@
+.transaction_heading{   
+    color: #001529;
+   font-size: 1.8rem;
+   margin-left: 18px;}
+
+
+
+
+   .mainheader{
+       
+     
+       padding: 17px;
+       border-right: 20px chartreuse; 
+   }
+
+  
+
+
+
+   .serch{
+
+       color: #fff;
+       text-shadow: 1px 1px 1px rgba(0,0,0,0.5); 
+   
+   
+       background-color: #35302c;
+       border-color: #35302c;
+       box-shadow: 0 0 0 1px #007bdb;
+       color: #fff;
+       text-decoration: none;
+       cursor: pointer;
+   
+   }
+   .serch:hover{
+       box-shadow: 0 0 0 2px #007bdb;
+   }
+
+   .reset{
+
+       color:#007bdb;
+       padding-left:29px; 
+       font-weight: bold;
+   }
+   .record{
+       padding-left:29px;
+       font-weight: bold;
+
+   }
+
+   
+
+
+/* .....................arrow styling............. */
+
+     
+     .pagesInput{
+       text-align: center;
+       width: 3.4rem;
+       height: 32px;
+       margin-left: 20px;
+     }
+
+
+     .arrowButton{
+       width: 33px;
+       height: 30px;
+       /* margin-right: 25px; */
+
+       
+
+     }
+     
+/* ...........modification ant and  design............... */
+
+     /* .ant-table-row td input{  
+         width: 100% !important;
+     }
+     .ant-table-tbody > tr > td {
+
+       border-bottom:none !important; 
+      background-color: #F5F5F5 !important;
+     }
+     .ant-table-tbody > tr > td {
+       padding: 2px 2px !important;
+   }
+   .ant-pagination {
+       display: none;
+   }
+  
+
+   .leftButton{
+padding: 8px !important;
+margin-left: -3px;
+   }
+   .rightbuutons{
+       margin-left: 0px;
+       padding-left: 75px;
+   }
+ */
+ 
+   
+   /* .................... data show...........*/
+   .dumyDataShow{
+     
+       padding-left: 80px;
+   }
+
+
+.closed{
+   /* padding-left: 85px; */
+
+}
+.date{
+  
+   margin-left: -65px;
+}
+.TransactionType{
+   margin-left: 64px;
+}

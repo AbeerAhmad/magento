@@ -1,0 +1,37 @@
+.orderstatus-head{
+    margin: 30px 0 0 80px;
+}
+
+.orderstatuscontent-store-heading{
+    font-size: 28px !important;
+}
+.orderstatuscontent-search{
+    height: 43px;
+    width: 300px;
+    margin-right: 20px;
+}
+.orderstatuscontent-row{
+    min-width: 520px;
+
+}
+.orderstatuscontent-child-1,.orderstatuscontent-child-2{
+    min-width: 240px;
+}
+.orderstatuscontent-child-2{
+    text-align: center;
+}
+.orderstatuscontent-row{
+    margin:20px 0px;
+}
+.orderstatus-create{
+    background-color: #f8f8f8;
+    padding: 20px;
+    padding-left: 0px;
+    border: thin #e3e3e3;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    margin: 20px 0px
+}
+.orderstatus-btn{
+    margin-left: 20px;
+}

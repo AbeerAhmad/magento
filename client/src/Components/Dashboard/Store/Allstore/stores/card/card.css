@@ -1,0 +1,21 @@
+.card-icons-head{
+    margin:15px 0 0 0px;
+    float: right;
+}
+.card-icons{
+    margin: 0 10px 0 10px !important;
+    font-size: 16px;
+    cursor: pointer;
+    color: black;
+}
+.styling-card{
+    width: 22vw;
+    min-width:220px;
+    display:inline-block;
+    margin:10px;
+    text-align:justify;
+}
+.card-meta{
+    height:80px;
+    overflow:hidden;
+}

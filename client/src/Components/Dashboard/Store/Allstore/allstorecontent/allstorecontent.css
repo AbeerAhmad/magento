@@ -1,0 +1,19 @@
+
+.allstorecontent-store-heading{
+    font-size: 28px !important;
+}
+.allstorecontent-search{
+    height: 43px;
+    width: 220px;
+    margin-right: 20px;
+}
+.allstorecontent-row{
+    min-width: 520px;
+
+}
+.allstorecontent-child-1,.allstorecontent-child-2{
+    min-width: 240px;
+}
+.allstorecontent-child-2{
+    text-align: center;
+}

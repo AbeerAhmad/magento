@@ -1,0 +1,19 @@
+.customer-header {
+  background: #f8f8f8;
+  border-top: 1px solid #e3e3e3;
+  border-bottom: 1px solid #e3e3e3;
+  padding-bottom: 30px;
+}
+
+.customer-button {
+  float: right;
+}
+
+.add-customer-header * {
+  margin: 0 5px 0 5px;
+}
+
+.add-customer-body {
+  margin-top: 20px;
+}
+

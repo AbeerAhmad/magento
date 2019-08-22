@@ -1,0 +1,43 @@
+.formup{
+    position: absolute;
+    margin-top:-451px;
+    /* margin-right: */
+    right: 30px;
+}
+.attribute-btn{
+    margin-right: 10px;
+}
+.col-lab-1 .ant-form-item label {
+    font-weight: bold;
+    color:rgba(0, 0, 0, 0.65);
+}
+.col-lab-1 .ant-form-item-required::before{
+    content: none;
+}
+.btnn{
+    margin-right:224px;
+}
+.add_pro,.clear{
+    position: relative;
+    bottom:32px;
+}
+.butn{
+    width:100%;
+
+float: right;}
+
+.jumbo{
+    width:100%;
+    /* padding:20px; */
+}
+.jumbo #sp1{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+.jumbo #sp2{
+    float: right;
+}
+.jumbo #sp1,#sp2{
+    padding:10px;
+}
